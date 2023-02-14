@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style
+        name="CustomFont" parent="@android:style/TextAppearance.Material.Body1">
+        <item name="android:fontFamily">@font/dreaming</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Add your customizations here -->
+    </style>
+</resources>

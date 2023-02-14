@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextBased</string>
+
+    <string name="banner_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interst_test">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="banner_id">Add your AdMob Banner ID here</string>
+    <string name="interst_id">Add your AdMob Instertitial ID here</string>
+</resources>
