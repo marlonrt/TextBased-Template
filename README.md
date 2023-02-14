@@ -25,4 +25,4 @@ This project is distributed under the MIT License. See the `LICENSE` file for mo
 
 ## Contact
 
-If you have any questions or suggestions, feel free to get in touch via email: [seu-email-aqui@gmail.com](mailto:marlonribeiro@pronton.me)
+If you have any questions or suggestions, feel free to get in touch via email: [marlonribeiro@proton.me](mailto:marlonribeiro@pronton.me)
