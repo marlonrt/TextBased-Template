@@ -1,9 +1,3 @@
-package id.ojogomaisantigo.jogodescolhas;
-
-import android.content.Context;
-import android.media.AudioManager;
-import android.media.MediaPlayer;
-
 public class MusicPlayer {
 
     private MediaPlayer player;
