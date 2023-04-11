@@ -3,10 +3,8 @@ public class TitleScreen extends AppCompatActivity {
     // Constant representing time interval for back button double-press
     private static final int timeInterval = 2000;
 
-    // Variable to store the timestamp of the last back button press
     private long backPressed;
 
-    // Variable to hold an instance of the MusicPlayer class
     private MusicPlayer musicPlayer;
 
     @Override
@@ -42,10 +40,8 @@ public class TitleScreen extends AppCompatActivity {
             finish();
         }
         else{
-            // Show a toast message indicating that the user should press the back button again to exit
             Toast.makeText(getBaseContext(), "Closing message.", Toast.LENGTH_SHORT).show();
         }
-        // Update the timestamp of the last back button press
         backPressed = System.currentTimeMillis();
     }
 
