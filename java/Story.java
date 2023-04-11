@@ -1,7 +1,3 @@
-package id.ojogomaisantigo.jogodescolhas;
-
-import android.view.View;
-
 public class Story {
 
     GameScreen gs;
