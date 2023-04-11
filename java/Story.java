@@ -17,7 +17,6 @@ public class Story {
         }
     }
 
-    // Method to show all the game buttons.
     public void showAllButtons(){
         gs.button1.setVisibility(View.VISIBLE);
         gs.button2.setVisibility(View.VISIBLE);
